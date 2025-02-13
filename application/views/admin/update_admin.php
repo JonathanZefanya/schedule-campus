@@ -64,11 +64,11 @@ echo $data['user']['username'];
                                 style="font-size: 35px;font-weight:900;font-family: 'Poppins', sans-serif;"
                                 class="text-success text-center"><i style="font-size: 30px;"
                                     ></i> 
-                                ITI</a>
+                                ITI -IF</a>
                         </div>
                     </div>
                     <div class="sidebar-brand sidebar-brand-sm">
-                        <a href="<?=base_url('admin')?>">LY</a>
+                        <a href="<?=base_url('admin')?>">ITI -IF</a>
                     </div>
                     <ul class="sidebar-menu">
                         <li class="menu-header ">Dashboard</li>

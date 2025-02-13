@@ -60,7 +60,7 @@ echo $data['user']['username'];
                         </a>
                     </div>
                     <div class="sidebar-brand sidebar-brand-sm">
-                        <a href="<?=base_url('admin')?>">LY</a>
+                        <a href="<?=base_url('admin')?>">ITI -IF</a>
                     </div>
                     <ul class="sidebar-menu">
                         <li class="menu-header">Dashboard</li>
